@@ -1,6 +1,6 @@
 testCreateRepository
 ====================
 
-test to create a public repository
-test to edit the file
-edit the file again
+Test to create a public repository.
+Test to edit the file.
+Edit the file again.
