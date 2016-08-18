@@ -1,7 +1,7 @@
 /*
  * template.h
  * This is the header file for template.c
- * This contains defines and function prototypes
+ * This contains defines, global variables, and function prototypes
  */
 
 #ifndef TEMPLATE_H
@@ -12,7 +12,7 @@
  */
   
 /*
- * global variables
+ * global or static variables
  */
    
 /*
